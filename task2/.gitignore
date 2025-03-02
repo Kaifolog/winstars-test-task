@@ -1,0 +1,6 @@
+mlruns/
+ner_models/
+imgcls_models/
+.env
+venv/
+**/__pycache__/
